@@ -123,6 +123,8 @@ html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, a, em, img
     color: #F2CC85;
     font-weight: bold;
     text-transform: uppercase;
+   
+    
 
 }
 
@@ -162,3 +164,53 @@ html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, a, em, img
     filter: grayscale(0%);    
     transform: scale(1.05);
 }
+
+.home{
+background-color: #F2CC85;
+text-align: center;
+padding: 60px 0 60px 0;
+
+}
+
+.home h1 {
+    color: #073040;
+    font-size: 30px;
+    text-transform: uppercase;
+    
+}
+
+.home p {
+padding-top: 50px;
+color: #073040;
+text-align: center;
+
+}
+
+.btn {
+	border: 3px solid #073040;
+	padding: 10px 30px;
+	color: #073040;
+	font-size: 14px;
+	line-height: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: .1em;
+}
+
+.btn:hover {
+	border: 3px solid #ffffff;
+	padding: 10px 30px;
+	color: #ffffff;
+	font-size: 14px;
+	line-height: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: .1em;
+}
+
+.call p{
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
