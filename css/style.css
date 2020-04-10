@@ -152,3 +152,13 @@ html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, a, em, img
     padding-top: 20px;
     
 }
+
+.gallery img{
+    transition: 1s;
+    filter: grayscale(100%);
+}
+ 
+.gallery img:hover{
+    filter: grayscale(0%);    
+    transform: scale(1.05);
+}
