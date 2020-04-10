@@ -74,7 +74,7 @@ html, body, div, span, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, a, em, img
   }
   .header_menu {
       
-      text-align: right;
+      text-align: left;
   }
 
   .header ul li {
