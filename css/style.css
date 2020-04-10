@@ -187,9 +187,9 @@ text-align: center;
 }
 
 .btn {
-	border: 3px solid #073040;
+	border: 3px solid #ffffff;
 	padding: 10px 30px;
-	color: #073040;
+	color: #ffffff;
 	font-size: 14px;
 	line-height: 20px;
 	text-transform: uppercase;
@@ -198,9 +198,9 @@ text-align: center;
 }
 
 .btn:hover {
-	border: 3px solid #ffffff;
+	border: 3px solid #073040;
 	padding: 10px 30px;
-	color: #ffffff;
+	color: #073040;
 	font-size: 14px;
 	line-height: 20px;
 	text-transform: uppercase;
